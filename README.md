@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jarrowsmith17
-- 👀 I’m interested in front-end development.
-- 🌱 I’m currently learning react.js and furthering my knowledge of HTML5,CSS and the BOOTSTRAP framework.
-- 📫 How to reach me ...
+- 👀 I am a Software Engineer working on Microsoft Power Platform & an SAP Consulatant.
+- 🌱 I have 4 years of experience in the industry.
+- 📫 You can reach me through my contact details over at https://jarrowsmith17.github.io/
 
 <!---
 jarrowsmith17/jarrowsmith17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
